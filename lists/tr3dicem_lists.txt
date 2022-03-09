@@ -1,9 +1,9 @@
-https://combinatronics.io/uBlockOrigin/uAssets/master/filters/filters.txt
-https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssets@master/filters/badware.txt
-https://cdn.statically.io/gh/uBlockOrigin/uAssets/master/filters/privacy.txt
-https://cdn.statically.io/gh/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssets@master/filters/unbreak.txt
-https://cdn.statically.io/gh/uBlockOrigin/uAssets/master/filters/annoyances.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+https://github.com/uBlockOrigin/uAssets/blob/master/filters/annoyances.txt
 
 https://filters.adtidy.org/extension/ublock/filters/17.txt
 https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt
@@ -11,6 +11,7 @@ https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/13_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
+
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 
@@ -19,4 +20,4 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimet
 
 https://easylist-downloads.adblockplus.org/easylistitaly.txt
 
-https://www.i-dont-care-about-cookies.eu/abp/
+https://fanboy.co.nz/fanboy-antifonts.txt
